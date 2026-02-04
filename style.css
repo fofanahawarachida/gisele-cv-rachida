@@ -1,0 +1,43 @@
+
+
+@font-face {
+  font-family: "Playwrite";
+  src:url("Playwrite_IN_Guides/") format("opentype") tech(color-COLRv1),
+}
+
+
+
+
+body {
+ margin: 40px;
+ font-family: playwrite;
+ font-size: 16px;
+ color: #333333;
+ background-color: #f5f5f5;
+ padding: top 23px; ;
+
+}
+
+#nom {
+ font-size: 28px;
+ color: #8d1214;
+ margin-bottom: 24px;
+}
+
+.section {
+ background-color: #ffffff;
+ padding: 14px;
+ margin-bottom: 56px;
+ border: 1px solid #dddddd;
+}
+
+.section h2 {
+ margin-top: 15px;
+ margin-bottom: 58px;
+}
+
+img {
+    width: 100px;
+    height:90px ;
+    object-fit: contain;
+}
